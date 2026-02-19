@@ -1,0 +1,25 @@
+# Core
+requests
+python-dotenv
+pydantic
+
+# AI / Agents
+langchain
+langchain-community
+langgraph
+
+# Embeddings / RAG
+faiss-cpu
+chromadb
+sentence-transformers
+
+# UI (optional)
+streamlit
+
+# Testing
+pytest
+pytest-mock
+
+# Utilities
+tqdm
+loguru
